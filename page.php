@@ -1,0 +1,19 @@
+<?php get_header();?>
+	<main>
+		<section class="articulo-interior">
+			<div class="sub_title">
+				<h1><?php the_title();?></h1>
+				<h2>Título</h2>
+			</div>
+            <div class="imagen-page"></div>
+			<div class="mid-page">
+				<div class="left-page">
+					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi, consectetur? Nihil iure odit, minima quasi a inventore laborum numquam quia deleniti voluptatibus illum similique totam, obcaecati itaque? Reprehenderit, quas fugit?<br>Maecenas sed accumsan magna, id accumsan urna. Nunc eu turpis odio. Sed ac augue justo. Aenean pharetra in tortor vel maximus. Duis nec quam id risus dapibus ultrices. Pellentesque cursus lacinia tortor ut malesuada. Curabitur luctus metus velit, et placerat felis molestie in. Quisque pretium quis odio ac ultrices. Quisque a libero malesuada, pulvinar lacus a, tincidunt ex. Phasellus non varius tellus. Cras metus tellus, posuere sed lobortis nec, finibus eget lectus. Curabitur congue pretium convallis. Praesent auctor justo leo, at iaculis lorem bibendum vitae. Proin vel leo a diam dictum semper a eu ante.<br>Mauris et placerat arcu, vitae facilisis ipsum. Nullam ut lacinia orci. Sed ultrices, quam at sodales aliquam, leo elit sodales nisl, vitae laoreet purus mauris vel elit. Donec finibus, felis ut cursus mattis, arcu dui condimentum tellus, mattis gravida ante lorem vel elit. Suspendisse nec risus metus. Fusce accumsan, est a hendrerit ullamcorper, diam arcu rutrum nulla, non posuere massa nisi euismod augue. Curabitur laoreet vulputate porttitor. Proin diam ligula, imperdiet at tempor eleifend, feugiat in sapien. Aenean ultrices sodales massa in interdum. Fusce non lectus a sapien rutrum luctus. Duis non est vel justo finibus sagittis eu in orci. Ut metus erat, aliquam quis ornare in, posuere et velit. Morbi iaculis dui nec est finibus consectetur. Pellentesque condimentum tempus hendrerit. Nam vulputate semper nibh, sit amet consequat nibh faucibus in.<br>Suspendisse pulvinar, odio quis venenatis interdum, mi enim laoreet est, at tempus quam turpis ac nibh. Etiam eu orci consequat, efficitur arcu in, elementum mi. Quisque vel dui justo. Nulla volutpat laoreet metus eget vestibulum. Aliquam ex eros, egestas at tincidunt quis, scelerisque in dolor. Suspendisse bibendum posuere lacus. Duis mattis, felis a venenatis mollis, massa augue venenatis lorem, nec fringilla augue nibh ultrices mauris. In blandit ultrices sapien et feugiat. Maecenas gravida quam rhoncus, iaculis felis at, egestas odio. Curabitur ornare justo non risus lacinia tincidunt. In at sapien blandit, gravida justo non, tempus elit. Curabitur porta porttitor scelerisque. Integer vitae tortor et lectus aliquet gravida ac vel enim. Nunc fermentum vitae massa ac cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur sagittis nisi, eu lacinia tellus commodo non.<br>Duis venenatis enim ac odio luctus facilisis. Praesent sit amet ornare dolor, quis fringilla est. Donec ac ante gravida nulla egestas consequat eu eget est. Phasellus condimentum facilisis feugiat. In iaculis pretium nulla eu porta. Integer quis dolor mauris. Pellentesque blandit, mauris quis eleifend viverra, urna libero vehicula enim, in auctor justo sem a libero. Sed a euismod nisi. Morbi fringilla, ante id vestibulum consectetur, ipsum lectus dignissim erat, eu faucibus risus odio non neque. Nunc dignissim suscipit consectetur. Nulla at leo at risus iaculis lacinia. Vestibulum ut dui a arcu hendrerit mattis. Ut pulvinar lectus in nunc posuere, at lacinia elit tincidunt.</p>
+				</div>
+                
+			</div>
+		</section>
+	</main>
+	<?php wp_footer();?>
+</body>
+</html>
