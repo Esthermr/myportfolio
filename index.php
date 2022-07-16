@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html <?php language_attributes();?>>
+<html lang="es">
 <head>
-	<meta charset="<?php bloginfo('charset');?>">
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link rel="icon" type="image/x-icon" href="img/favicon.svg">
