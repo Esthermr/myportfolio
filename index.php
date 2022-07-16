@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link rel="icon" type="image/x-icon" href="img/favicon.svg">
+	<link href="css/estilo.css" rel="stylesheet">
 	<title>REMStudio</title>
 </head>
 <body class="entero">
@@ -272,7 +273,7 @@
 						<li class="gal-menu" data-filter='web'>Diseño Web</li>
 					</ul>
 				</div>
-				<div class="fotos">
+				<!--<div class="fotos">
 					<?php
 						foreach (glob("img/logo/*.*") as $filename) {
 						echo "<img src='$filename' data-filter='logo'>";
@@ -281,7 +282,7 @@
 						echo "<img src='$filename' data-filter='web'>";
 						};
 					?>
-				</div>
+				</div>-->
 				<div class="modal" id="miModal">
 					<div class="modal-contenido">
     					<h3 class="close">X</h3>
